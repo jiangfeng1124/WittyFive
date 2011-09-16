@@ -8,6 +8,8 @@ import javax.swing.JTextArea;
 import javax.swing.border.TitledBorder;
 import com.swtdesigner.SwingResourceManager;
 
+//jiangfeng
+
 public class About extends JDialog {
 
 	private JTextArea ruleTextArea;
